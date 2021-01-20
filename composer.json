@@ -44,7 +44,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Maxtc\\LaravelNewsletterSubscription\\LaravelNewsletterSubscriptionServiceProvider"
+                "Maxtc\\LaravelNewsletterSubscription\\Providers\\NewsletterSubscriptionServiceProvider"
             ],
             "aliases": {
                 "LaravelNewsletterSubscription": "Maxtc\\LaravelNewsletterSubscription\\LaravelNewsletterSubscriptionFacade"
