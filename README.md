@@ -1,10 +1,5 @@
 # Very short description of the package
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/maxtc/laravel-newsletter-subscription.svg?style=flat-square)](https://packagist.org/packages/maxtc/laravel-newsletter-subscription)
-[![Build Status](https://img.shields.io/travis/maxtc/laravel-newsletter-subscription/master.svg?style=flat-square)](https://travis-ci.org/maxtc/laravel-newsletter-subscription)
-[![Quality Score](https://img.shields.io/scrutinizer/g/maxtc/laravel-newsletter-subscription.svg?style=flat-square)](https://scrutinizer-ci.com/g/maxtc/laravel-newsletter-subscription)
-[![Total Downloads](https://img.shields.io/packagist/dt/maxtc/laravel-newsletter-subscription.svg?style=flat-square)](https://packagist.org/packages/maxtc/laravel-newsletter-subscription)
-
 This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what PSRs you support to avoid any confusion with users and contributors.
 
 ## Installation
