@@ -29,7 +29,7 @@ class NewsletterSubscriptionController extends Controller
         }
 
         return redirect()->back()
-            ->with(config('newsletter_subscription.session_message_key'), trans('riverskies::newsletter_subscription.subscribe', ['email' => $data['email']]));
+            ->with(config('newsletter_subscription.session_message_key'), trans('maxtc::newsletter_subscription.subscribe', ['email' => $data['email']]));
     }
 
     /**
