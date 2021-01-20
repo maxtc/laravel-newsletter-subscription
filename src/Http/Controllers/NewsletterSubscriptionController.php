@@ -1,11 +1,11 @@
 <?php
 
-namespace Riverskies\LaravelNewsletterSubscription\Http\Controllers;
+namespace Maxtc\LaravelNewsletterSubscription\Http\Controllers;
 
 use Illuminate\Http\Request;
 use Illuminate\Routing\Controller;
-use Riverskies\LaravelNewsletterSubscription\Jobs\SendNewsletterSubscriptionConfirmation;
-use Riverskies\LaravelNewsletterSubscription\NewsletterSubscription;
+use Maxtc\LaravelNewsletterSubscription\Jobs\SendNewsletterSubscriptionConfirmation;
+use Maxtc\LaravelNewsletterSubscription\NewsletterSubscription;
 
 class NewsletterSubscriptionController extends Controller
 {
